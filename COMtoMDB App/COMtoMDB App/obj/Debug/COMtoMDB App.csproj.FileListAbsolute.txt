@@ -1,0 +1,17 @@
+I:\COMtoMDB App\COMtoMDB App\bin\Debug\Properties\Resources.resx
+I:\COMtoMDB App\COMtoMDB App\bin\Debug\Properties\Resources.Designer.cs
+I:\COMtoMDB App\COMtoMDB App\bin\Debug\Properties\Settings.Designer.cs
+I:\COMtoMDB App\COMtoMDB App\bin\Debug\Properties\AssemblyInfo.cs
+I:\COMtoMDB App\COMtoMDB App\bin\Debug\Properties\Settings.settings
+I:\COMtoMDB App\COMtoMDB App\bin\Debug\COMtoMDB App.exe.config
+I:\COMtoMDB App\COMtoMDB App\bin\Debug\COMtoMDB App.exe
+I:\COMtoMDB App\COMtoMDB App\bin\Debug\COMtoMDB App.pdb
+I:\COMtoMDB App\COMtoMDB App\obj\Debug\COMtoMDB App.csprojAssemblyReference.cache
+I:\COMtoMDB App\COMtoMDB App\obj\Debug\test_program_barier.GeneralSettingsForm.resources
+I:\COMtoMDB App\COMtoMDB App\obj\Debug\test_program_barier.MainForm.resources
+I:\COMtoMDB App\COMtoMDB App\obj\Debug\test_program_barier.PortSettingsForm.resources
+I:\COMtoMDB App\COMtoMDB App\obj\Debug\COMtoMDB_App.Properties.Resources.resources
+I:\COMtoMDB App\COMtoMDB App\obj\Debug\COMtoMDB App.csproj.GenerateResource.cache
+I:\COMtoMDB App\COMtoMDB App\obj\Debug\COMtoMDB App.csproj.CoreCompileInputs.cache
+I:\COMtoMDB App\COMtoMDB App\obj\Debug\COMtoMDB App.exe
+I:\COMtoMDB App\COMtoMDB App\obj\Debug\COMtoMDB App.pdb
